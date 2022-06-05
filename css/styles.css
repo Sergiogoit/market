@@ -93,10 +93,12 @@ a {
 }
 .web__studio--black {
   color: var(--logo-footer-color);
+  margin-left: 5px;
 }
 .web__studio--wight {
   color: var(--body-color);
   margin-bottom: 20px;
+  margin-left: 5px;
 }
 /* ----------------------------------------------------------------------------------------------------- */
 
